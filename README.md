@@ -69,7 +69,7 @@ And renaming the columns to:
 [+]'share_asian':'Percent_Asian'
 [+]'share_hispanic':'Percent_Hispanic'
 
-In race data, we dropped the rows with no data (e.g AK, Flat CDP, (X), (X), (X), (X), (X),), resulting in the removal of 20 rows.
+In race data, we dropped the rows with no data (e.g AK, Flat CDP, (X), (X), (X), (X), (X)), resulting in the removal of 20 rows.
 
 Create the database connection and set the engine.
 
