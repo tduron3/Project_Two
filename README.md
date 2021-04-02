@@ -6,50 +6,50 @@ For this project, we have selected to use fatal police shootings in the US data 
 
 ### We will begin with the following two files: ###
 
-1. PoliceKillingsUS Fields / Columns: 
-		[+]ID
-		[+]name
-		[+]date
-		[+]manner_of_death
-		[+]armed
-		[+]age
-		[+]gender
-		[+]race
-		[+]city
-		[+]state
-		[+]signs_of_mental_illness
-		[+]threat_level
-		[+]flee
-		[+]body_camera
+1. PoliceKillingsUS Fields / Columns:
+		* ID
+		* name
+		* date
+		* manner_of_death
+		* armed
+		* age
+		* gender
+		* race
+		* city
+		* state
+		* signs_of_mental_illness
+		* threat_level
+		* flee
+		* body_camera
 
 2. ShareRaceByCity Fields / Columns: 
 		* Geographic area: State Abbreviated
 		* City: City with annotation of CDP, city or town
 		* Sharewhite: The percentage of the city's population that is white 
-		[+]Shareblack: Percentage of the city's population that is black
-		[+]Sharenativeamerican: Percentage of the city's population that is native american
-		[+]Shareasian: Percentage of the city's population that is asian
-		[+]Sharehispanic: Percentage of the city's population that is hispanic
+		* Shareblack: Percentage of the city's population that is black
+		* Sharenativeamerican: Percentage of the city's population that is native american
+		* Shareasian: Percentage of the city's population that is asian
+		* Sharehispanic: Percentage of the city's population that is hispanic
 
 
 Conducted a read of the police csv file and a read of the race csv file
 
 
 We then transformed the police data, filtering down only down to the following columns: 
-[+]name
-[+]manner_of_death
-[+]gender
-[+]race
-[+]city
-[+]state
+		* name
+		* manner_of_death
+		* gender
+		* race
+		* city
+		* state
 
 And then renamed columns to: 
-[+]Name
-[+]Manner_of_Death
-[+]Gender
-[+]Race
-[+]City
-[+]State 
+		* Name
+		* Manner_of_Death
+		* Gender
+		* Race
+		* City
+		* State 
 
 We then transformed the race data by filtering down to only the following columns: 
 
