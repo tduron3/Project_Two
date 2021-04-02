@@ -23,9 +23,9 @@ For this project, we have selected to use fatal police shootings in the US data 
 		[+]body_camera
 
 2. ShareRaceByCity Fields / Columns: 
-		[+]Geographic area: State Abbreviated
-		[+]City: City with annotation of CDP, city or town
-		[+]Sharewhite: The percentage of the city's population that is white 
+		* Geographic area: State Abbreviated
+		* City: City with annotation of CDP, city or town
+		* Sharewhite: The percentage of the city's population that is white 
 		[+]Shareblack: Percentage of the city's population that is black
 		[+]Sharenativeamerican: Percentage of the city's population that is native american
 		[+]Shareasian: Percentage of the city's population that is asian
