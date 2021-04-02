@@ -1,6 +1,6 @@
 # Project_Two
 
-Project Two for UTSA Data Analytics Bootcamp
+## Project Two for UTSA Data Analytics Bootcamp
 
 For this project, we have selected to use fatal police shootings in the US data obtained from https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us?select=PoliceKillingsUS.csv 
 
