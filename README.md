@@ -10,29 +10,26 @@ For this project, we have selected to use fatal police shootings in the US data 
 * ID
 * name
 * date
-		* ID
-		* name
-		* date
-		* manner_of_death
-		* armed
-		* age
-		* gender
-		* race
-		* city
-		* state
-		* signs_of_mental_illness
-		* threat_level
-		* flee
-		* body_camera
-
+* manner_of_death
+* armed
+* age
+* gender
+* race
+* city
+* state
+* signs_of_mental_illness
+* threat_level
+* flee
+* body_camera
+		
 2. ShareRaceByCity Fields / Columns: 
-		* Geographic area: State Abbreviated
-		* City: City with annotation of CDP, city or town
-		* Sharewhite: The percentage of the city's population that is white 
-		* Shareblack: Percentage of the city's population that is black
-		* Sharenativeamerican: Percentage of the city's population that is native american
-		* Shareasian: Percentage of the city's population that is asian
-		* Sharehispanic: Percentage of the city's population that is hispanic
+* Geographic area: State Abbreviated
+* City: City with annotation of CDP, city or town
+* Sharewhite: The percentage of the city's population that is white 
+* Shareblack: Percentage of the city's population that is black
+* Sharenativeamerican: Percentage of the city's population that is native american
+* Shareasian: Percentage of the city's population that is asian
+* Sharehispanic: Percentage of the city's population that is hispanic
 
 
 Conducted a read of the police csv file and a read of the race csv file
