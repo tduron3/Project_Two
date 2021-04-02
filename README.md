@@ -7,6 +7,9 @@ For this project, we have selected to use fatal police shootings in the US data 
 ### We will begin with the following two files: ###
 
 1. PoliceKillingsUS Fields / Columns:
+* ID
+* name
+* date
 		* ID
 		* name
 		* date
