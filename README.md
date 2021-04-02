@@ -1,12 +1,12 @@
-# Project_Two
+# Project_Two #
 
-UTSA Data Analytics Bootcamp
+## UTSA Data Analytics Bootcamp
 
 For this project, we have selected to use fatal police shootings in the US data obtained from https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us?select=PoliceKillingsUS.csv 
 
 We will begin with the following two files: 
 
-###1. PoliceKillingsUS Fields / Columns: 
+1. PoliceKillingsUS Fields / Columns: 
 		[+]ID
 		[+]name
 		[+]date
